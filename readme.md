@@ -1,3 +1,3 @@
 # Restaurant App
 
-![alt text](./src/assets/screenimages/app.png?raw=true "likes/Unlikes")
+![alt text](./src/screenimages/app.png?raw=true "likes/Unlikes")
